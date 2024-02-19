@@ -13,6 +13,9 @@
 
 - 💬 Ask me about **Verilog, C or Python**
 
+- 🎓 Currently studying Electroncis and Communication Engineering
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
